@@ -4,3 +4,4 @@ echo 'nihao'
 zhushi2
 b
 echo 'haha'
+echo 'python'
